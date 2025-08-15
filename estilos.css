@@ -40,5 +40,17 @@ h4{
     width: 300px;
     margin-right: 15px;
     margin-bottom: 15px;
-    border-left-width: rgb(16, 16, 15);
+}
+
+.concertpage{
+    float: left;
+    width: 300px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+h5{
+    color: rgb(216, 218, 155);
+    background-color: rgb(156, 68, 82);
+    border: rgb(16, 16, 15);
 }
