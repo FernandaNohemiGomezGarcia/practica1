@@ -1,8 +1,30 @@
-.pianoimg{
+h1{
+    color: rgb(216, 218, 155);
+    background-color: rgb(156, 68, 82);
+    border: rgb(16, 16, 15);
+}
+.pianoimg {
     float: left;
     width: 300px;
+    margin-right: 15px;
+    margin-bottom: 15px;
 }
-.h2{
-background-color: pink;
-border: black;
+
+h2{
+    color: rgb(216, 218, 155);
+    background-color: rgb(156, 68, 82);
+    border: rgb(16, 16, 15);
+}
+
+h3{
+    color: rgb(216, 218, 155);
+    background-color: rgb(156, 68, 82);
+    border: rgb(16, 16, 15);
+}
+
+.dibujoimg{
+    float: right;
+    width: 300px;
+    margin-left: 15px;
+    margin-bottom: 15px;
 }
